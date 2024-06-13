@@ -91,10 +91,10 @@
 #define HAVE_ASSERT_H 1
 
 /* Define if you can safely include both <sys/time.h> and <time.h>.  */
-#define TIME_WITH_SYS_TIME 1
+// #define TIME_WITH_SYS_TIME 1
 
 /* Define if you have the <sys/time.h> header file.  */
-#define HAVE_SYS_TIME_H 1
+// #define HAVE_SYS_TIME_H 1
 
 /* Define if you have the <time.h> header file.  */
 #define HAVE_TIME_H 1
@@ -103,7 +103,7 @@
 #define HAVE_STDDEF_H 1
 
 /* Define if you have the <unistd.h> header file.  */
-#define HAVE_UNISTD_H 1
+// #define HAVE_UNISTD_H 1
 
 /* Define if you have the <malloc.h> header file.  */
 #define HAVE_MALLOC_H 1
@@ -115,7 +115,7 @@
 #define HAVE_SYS_STAT_H 1
 
 /* Define if you have the <sys/resource.h> header file.  */
-#define HAVE_SYS_RESOURCE_H 1
+// #define HAVE_SYS_RESOURCE_H 1
 
 /* Define if you have the <fcntl.h> header file.  */
 #define HAVE_FCNTL_H 1
@@ -124,13 +124,13 @@
 #define HAVE_SIGNAL_H 1
 
 /* Define if you have the <sys/socket.h> header file.  */
-#define HAVE_SYS_SOCKET_H 1
+// #define HAVE_SYS_SOCKET_H 1
 
 /* Define if you have the <netdb.h> header file.  */
-#define HAVE_NETDB_H 1
+// #define HAVE_NETDB_H 1
 
 /* Define if you have the <netinet/in.h> header file.  */
-#define HAVE_NETINET_IN_H 1
+// #define HAVE_NETINET_IN_H 1
 
 /* Define if you have the <sys/param.h> header file.  */
 #define HAVE_SYS_PARAM_H 1
